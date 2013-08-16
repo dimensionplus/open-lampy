@@ -3,8 +3,7 @@ open-lampy
 
 
 
-![Alt text](https://raw.github.com/dimensionplus/open-lampy/master/screenshot.png "screenshot)
-
+![Alt text](https://raw.github.com/dimensionplus/open-lampy/master/screenshot.png "screenshot")
 OPEN LAMPY
 Open Lampy is one of the open design/hardware artworks that Dimension+ recently fabricated. The original idea is to combine origami folding technique and laser cutting structure. People can easily assemble a lamp with a paper shade, wood structure, and battery without any soldering technique involved. 
 
